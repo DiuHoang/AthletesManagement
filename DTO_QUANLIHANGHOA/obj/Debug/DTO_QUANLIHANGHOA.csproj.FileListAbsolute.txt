@@ -1,0 +1,6 @@
+C:\Users\tien.ho21.PN\Documents\.Net\Solution\Mô hình 3 lớp\DTO_QUANLIHANGHOA\bin\Debug\DTO_QUANLIHANGHOA.dll
+C:\Users\tien.ho21.PN\Documents\.Net\Solution\Mô hình 3 lớp\DTO_QUANLIHANGHOA\bin\Debug\DTO_QUANLIHANGHOA.pdb
+C:\Users\tien.ho21.PN\Documents\.Net\Solution\Mô hình 3 lớp\DTO_QUANLIHANGHOA\obj\Debug\DTO_QUANLIHANGHOA.csprojAssemblyReference.cache
+C:\Users\tien.ho21.PN\Documents\.Net\Solution\Mô hình 3 lớp\DTO_QUANLIHANGHOA\obj\Debug\DTO_QUANLIHANGHOA.csproj.CoreCompileInputs.cache
+C:\Users\tien.ho21.PN\Documents\.Net\Solution\Mô hình 3 lớp\DTO_QUANLIHANGHOA\obj\Debug\DTO_QUANLIHANGHOA.dll
+C:\Users\tien.ho21.PN\Documents\.Net\Solution\Mô hình 3 lớp\DTO_QUANLIHANGHOA\obj\Debug\DTO_QUANLIHANGHOA.pdb
